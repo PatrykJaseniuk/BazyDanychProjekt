@@ -1,0 +1,1 @@
+1 Diagram związków encji-min. 8 tabel (N:N ; N:1 ; 1:1)
